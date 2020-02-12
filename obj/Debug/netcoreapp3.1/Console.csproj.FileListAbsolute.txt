@@ -1,0 +1,11 @@
+C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.pdb
