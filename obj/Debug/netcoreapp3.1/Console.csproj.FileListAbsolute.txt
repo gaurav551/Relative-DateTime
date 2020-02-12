@@ -9,3 +9,5 @@ C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.dll
 C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\Console.pdb
 C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.dll
 C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\prativa\Desktop\Console\bin\Debug\netcoreapp3.1\TimeAgo.dll
+C:\Users\prativa\Desktop\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
