@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using TimeAgo;
+
 
 namespace Console
 {
@@ -8,14 +8,9 @@ namespace Console
     {
         static void Main(string[] args)
         {
-            var dateTime = DateTime.Now.AddDays(-2).AddHours(-8);
-            var timeAgoInCurrentCulture = dateTime.TimeAgo();
-            System.Console.WriteLine("With Time AGO");
-            System.Console.WriteLine(timeAgoInCurrentCulture);
-            System.Console.WriteLine("With Code");
-            var a = DateTime.Now.AddDays(-2).AddHours(-8);
-            var date = RelativeDate(a);
-            System.Console.WriteLine(date);
+            DateTime dateTime = DateTime.Now.AddDays(-2).AddHours(-8);
+            string dateInTimeAgo = RelativeDate(dateTime);
+            System.Console.WriteLine(dateInTimeAgo);
 
         }
         public static string RelativeDate(DateTime theDate)
